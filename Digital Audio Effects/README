@@ -1,0 +1,2 @@
+A digital audio effects processing script in python using Data Signal Processing elements (convolution, delay lines and modulation).
+The implemented effects are: echo, distortion, flanger and chorus.
