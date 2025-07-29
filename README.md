@@ -1,2 +1,2 @@
 # UniWork
-Work from Uni gathered over time
+Projects from Uni gathered over time
