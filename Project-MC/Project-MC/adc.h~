@@ -1,0 +1,7 @@
+#ifndef ADC_H
+#define ADC_H
+
+unsigned int read_adc(unsigned char channel);
+float get_voltage(unsigned char channel);
+
+#endif
